@@ -13,6 +13,7 @@
     "cors": "*",
     "dotenv": "^4.0.0",
     "express": "*",
+    "handlebars": "^4.0.11",
     "jsonwebtoken": "*",
     "mongoose": "*",
     "ng2-avatar": "^2.1.1",
